@@ -5,7 +5,6 @@ using namespace std;
 int maxMin(int k, vector<int> arr) {
     sort(arr.begin(), arr.end());
 
-    for(auto& a:arr) cout << a << " ";
     int unfair = 987654321;
     for(int i = 0; i<arr.size(); i++)
     {
