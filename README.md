@@ -6,11 +6,10 @@
 
 ### 11월 둘째 주
 
-https://www.hackerrank.com/challenges/encryption/problem
+Max Min | https://www.hackerrank.com/challenges/angry-children/problem
 
-http://hr.gs/4jbp9
+Non-Divisible Subset | http://hr.gs/4jbp9
 
-https://www.hackerrank.com/challenges/magic-square-forming/problem
+Forming a Magic Square | https://www.hackerrank.com/challenges/magic-square-forming/problem
 
-https://www.hackerrank.com/challenges/angry-children/problem
-
+Encryption | https://www.hackerrank.com/challenges/encryption/problem
