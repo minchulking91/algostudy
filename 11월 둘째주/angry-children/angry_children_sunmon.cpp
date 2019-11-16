@@ -1,17 +1,20 @@
-#define MIN(a,b) (a<b)?a:b;
+#define MIN(a,b) (a<b)? a:b
+
 using namespace std;
 
-int nonDivisibleSubset(int k, vector<int> s) {
-    
-    for(auto& a: s) a= a%k;
-    int subset = MIN(1, count(s.begin(), s.end(), 0));
-    
-    for(int i = 1; i<= (k/2); i++)
+int maxMin(int k, vector<int> arr) {
+    sort(arr.begin(), arr.end());
+
+    for(auto& a:arr) cout << a << " ";
+    int unfair = 987654321;
+    for(int i = 0; i<arr.size(); i++)
     {
-        int num = count(s.begin(), s.end(), i);
-        int opposit = count(s.begin(), s.end(), k-i);
-        if(i == k-i) num=opposit=1;
-        num > opposit? subset += num : subset += opposit;
+        if(i + k > arr.size()) break;
+        int local_max = arr[i+k-1];
+        int local_min = arr[i];
+
+        unfair = MIN(unfair, local_max - local_min);
     }
-    return subset;
+
+    return unfair;
 }
