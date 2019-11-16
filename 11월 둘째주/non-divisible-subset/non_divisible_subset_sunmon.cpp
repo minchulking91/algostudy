@@ -10,7 +10,7 @@ int nonDivisibleSubset(int k, vector<int> s) {
     {
         int num = count(s.begin(), s.end(), i);
         int opposit = count(s.begin(), s.end(), k-i);
-        if(i == k-i) num=opposit=1;
+        if(i == k-i) num=opposit=1; //k가 짝수인 경우
         num > opposit? subset += num : subset += opposit;
     }
     return subset;
