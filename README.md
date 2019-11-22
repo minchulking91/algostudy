@@ -13,3 +13,11 @@ Non-Divisible Subset | http://hr.gs/4jbp9
 Forming a Magic Square | https://www.hackerrank.com/challenges/magic-square-forming/problem
 
 Encryption | https://www.hackerrank.com/challenges/encryption/problem
+
+### 11월 셋째 주
+
+equal | https://www.hackerrank.com/challenges/equal/problem
+
+real-estate-broker | https://www.hackerrank.com/challenges/real-estate-broker/problem
+
+climbing-the-leaderboard | https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
