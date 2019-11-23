@@ -21,3 +21,5 @@ equal | https://www.hackerrank.com/challenges/equal/problem
 real-estate-broker | https://www.hackerrank.com/challenges/real-estate-broker/problem
 
 climbing-the-leaderboard | https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+
+3d-surface-area | https://www.hackerrank.com/challenges/3d-surface-area/problem
