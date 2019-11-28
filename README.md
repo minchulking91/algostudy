@@ -23,3 +23,7 @@ real-estate-broker | https://www.hackerrank.com/challenges/real-estate-broker/pr
 climbing-the-leaderboard | https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 
 3d-surface-area | https://www.hackerrank.com/challenges/3d-surface-area/problem
+
+### 11월 넷째 주
+
+queens-attack-2 | https://www.hackerrank.com/challenges/queens-attack-2/problem
