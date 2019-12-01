@@ -31,3 +31,5 @@ queens-attack-2 | https://www.hackerrank.com/challenges/queens-attack-2/problem
 greedy-florist | https://www.hackerrank.com/challenges/greedy-florist/problem
 
 flipping-the-matrix | https://www.hackerrank.com/challenges/flipping-the-matrix/problem
+
+bigger-is-greator | https://www.hackerrank.com/challenges/bigger-is-greater/problem
