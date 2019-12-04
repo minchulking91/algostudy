@@ -4,15 +4,19 @@
 
 각 주차마다 한 문제씩 가져와서 공유
 
-### 11월 둘째 주
+### 12월 첫째 주
 
-Max Min | https://www.hackerrank.com/challenges/angry-children/problem
+journey-to-the-moon | https://www.hackerrank.com/challenges/journey-to-the-moon/problem
 
-Non-Divisible Subset | http://hr.gs/4jbp9
+### 11월 넷째 주
 
-Forming a Magic Square | https://www.hackerrank.com/challenges/magic-square-forming/problem
+queens-attack-2 | https://www.hackerrank.com/challenges/queens-attack-2/problem
 
-Encryption | https://www.hackerrank.com/challenges/encryption/problem
+greedy-florist | https://www.hackerrank.com/challenges/greedy-florist/problem
+
+flipping-the-matrix | https://www.hackerrank.com/challenges/flipping-the-matrix/problem
+
+bigger-is-greator | https://www.hackerrank.com/challenges/bigger-is-greater/problem
 
 ### 11월 셋째 주
 
@@ -24,12 +28,14 @@ climbing-the-leaderboard | https://www.hackerrank.com/challenges/climbing-the-le
 
 3d-surface-area | https://www.hackerrank.com/challenges/3d-surface-area/problem
 
-### 11월 넷째 주
+### 11월 둘째 주
 
-queens-attack-2 | https://www.hackerrank.com/challenges/queens-attack-2/problem
+Max Min | https://www.hackerrank.com/challenges/angry-children/problem
 
-greedy-florist | https://www.hackerrank.com/challenges/greedy-florist/problem
+Non-Divisible Subset | http://hr.gs/4jbp9
 
-flipping-the-matrix | https://www.hackerrank.com/challenges/flipping-the-matrix/problem
+Forming a Magic Square | https://www.hackerrank.com/challenges/magic-square-forming/problem
 
-bigger-is-greator | https://www.hackerrank.com/challenges/bigger-is-greater/problem
+Encryption | https://www.hackerrank.com/challenges/encryption/problem
+
+
