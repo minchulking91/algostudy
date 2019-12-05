@@ -8,8 +8,10 @@ int surfaceArea(vector<vector<int>> A) {
     row = A.size();
     col = A[0].size();
 
+    //xy area
     xy = col * row;
 
+    //xz area
     for(int i = 0; i < row; i++)
     {
         for(int j = 0; j < col; j++)
@@ -19,6 +21,7 @@ int surfaceArea(vector<vector<int>> A) {
         }
     }
 
+    //yz area
     for(int j = 0; j < col; j++)
     {
         for(int i = 0; i<row; i++)
