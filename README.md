@@ -8,6 +8,8 @@
 
 journey-to-the-moon | https://www.hackerrank.com/challenges/journey-to-the-moon/problem
 
+coin-change | https://www.hackerrank.com/challenges/coin-change/problem
+
 ### 11월 넷째 주
 
 queens-attack-2 | https://www.hackerrank.com/challenges/queens-attack-2/problem
