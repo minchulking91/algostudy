@@ -5,9 +5,6 @@
 각 주차마다 한 문제씩 가져와서 공유
 
 
-### 12월 넷째 주
-
-
 ### 12월 셋째 주
 
 Winning Lottery Ticket | https://www.hackerrank.com/challenges/winning-lottery-ticket/problem
