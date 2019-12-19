@@ -4,6 +4,18 @@
 
 각 주차마다 한 문제씩 가져와서 공유
 
+
+### 12월 넷째 주
+
+
+### 12월 셋째 주
+
+Winning Lottery Ticket | https://www.hackerrank.com/challenges/winning-lottery-ticket/problem
+
+
+### 12월 둘째 주
+Connected Cells in a Grid | https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem
+
 ### 12월 첫째 주
 
 journey-to-the-moon | https://www.hackerrank.com/challenges/journey-to-the-moon/problem
